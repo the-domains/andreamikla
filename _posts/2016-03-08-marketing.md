@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Andrea Mikla your creative guru\_"
-datePublished: '2016-03-08T18:27:17.380Z'
-dateModified: '2016-03-08T18:26:11.528Z'
+datePublished: '2016-03-08T18:58:04.630Z'
+dateModified: '2016-03-08T18:57:52.738Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-08-marketing.md
@@ -24,19 +24,8 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ff94b86-91ec-4b84-be0f-ccc82464adea.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3388aa47-bfdc-42e8-916c-dafe8fa4131e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f70571cc563072fdbc22c007b688133bf8356bc.jpg)
 
-Andrea Mikla your creative guru ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f70571cc563072fdbc22c007b688133bf8356bc.jpg)
+I have a love of creating strong compelling logos for my clients. Logos that speak to my clients heart and their business. Along with logos and marketing pieces, my passion is social media and providing graphics and analytics to help grow their business. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33054c56-1965-4bb4-8056-ed35e30b2d08.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe93aa9f-9488-4415-bf59-184429eace61.jpg)
-
-Natural Elements Health Center logo was created using a palette from the outdoors to creating a warm and calming effect for clients.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e45fe863-7da9-4e43-9839-c85fa58e59f3.jpg)
-
-Garden Sprouts • heatherstone • Chapman's Auto Repair
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee72b7c8-09c4-4c96-9dc4-481c8606a825.jpg)
-
-Leaping Leashes logo was designed all around the owners Husky. Using colors found on a blue bird day and joy the animals have will taking that daily walk with a human. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9475dcc6-b620-4208-912d-ced827812e34.jpg)
-
-Kent Lestrud • Our Town Bakery • Molacek Family Eyecare
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/986cb8dd-a174-4e32-af4a-1e257615e6d5.jpg)
-
-Cakes on a Whim is a fun and playful logo that represents the talent of the owner to a T. Strong, beautiful and playful.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a09350f4-618a-4ad7-9950-76365c29738d.jpg)
