@@ -1,7 +1,7 @@
 name: andreamikla
 favicon: null
-layout_spectrum: 0.5397412304300815
-typography_spectrum: 0.7747292439453304
+layout_spectrum: 0.94737
+typography_spectrum: 0.11409
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5951385232619941
+    - '#fffdfe'
+    - '#636466'
+    - '#9d9d9f'
+    - '#e1e0e1'
+    - '#7c7c7e'
+  brandStrength: 0.6875
   lightness: 0.9039010962005705
   saturation: 0.13330895826220512
   rhythmicContrast: 0.05720983003266156
