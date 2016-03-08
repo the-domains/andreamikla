@@ -1,6 +1,6 @@
 name: andreamikla
 favicon: null
-layout_spectrum: 0.94737
+layout_spectrum: 0.55622
 typography_spectrum: 0.3892
 title: marketing • events • design
 cta:
@@ -23,7 +23,7 @@ color:
     - '#e1e0e1'
     - '#7c7c7e'
   brandStrength: 0.6875
-  lightness: 0.9039010962005705
-  saturation: 0.13330895826220512
-  rhythmicContrast: 0.05720983003266156
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
