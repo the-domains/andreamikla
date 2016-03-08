@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Andrea Mikla your creative guru\_"
-datePublished: '2016-03-08T18:20:31.774Z'
-dateModified: '2016-03-08T18:19:40.080Z'
+datePublished: '2016-03-08T18:27:17.380Z'
+dateModified: '2016-03-08T18:26:11.528Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-08-marketing.md
@@ -34,4 +34,9 @@ Garden Sprouts • heatherstone • Chapman's Auto Repair
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee72b7c8-09c4-4c96-9dc4-481c8606a825.jpg)
 
 Leaping Leashes logo was designed all around the owners Husky. Using colors found on a blue bird day and joy the animals have will taking that daily walk with a human. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9475dcc6-b620-4208-912d-ced827812e34.jpg)
+
+Kent Lestrud • Our Town Bakery • Molacek Family Eyecare
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/986cb8dd-a174-4e32-af4a-1e257615e6d5.jpg)
+
+Cakes on a Whim is a fun and playful logo that represents the talent of the owner to a T. Strong, beautiful and playful.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a09350f4-618a-4ad7-9950-76365c29738d.jpg)
