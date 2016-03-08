@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Andrea Mikla
-datePublished: '2016-03-08T16:45:35.942Z'
-dateModified: '2016-03-08T16:45:16.780Z'
+description: "Andrea Mikla your creative guru\_"
+datePublished: '2016-03-08T16:51:03.976Z'
+dateModified: '2016-03-08T16:50:58.764Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-08-marketing.md
@@ -22,6 +22,7 @@ url: marketing/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ff94b86-91ec-4b84-be0f-ccc82464adea.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3388aa47-bfdc-42e8-916c-dafe8fa4131e.jpg)
 
 Andrea Mikla your creative guru
