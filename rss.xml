@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[marketing • events • design]]></title>
         <description><![CDATA[marketing • events • design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andreamikla/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 22:22:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 22:22:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andreamikla/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Andrea Mikla]]></title>
+            <description><![CDATA[<article><h1>Andrea Mikla</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84dbfc8e817c7023a455aeb2f36e3291f34d3191.png"></article>]]></description>
+            <link>https://thegrid.ai/andreamikla/andrea-mikla/index.html</link>
+            <guid isPermaLink="false">11e352dd-e7db-4bfe-bc0e-2494843659a2</guid>
+            <pubDate>Wed, 09 Mar 2016 22:21:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Logos:]]></title>
             <description><![CDATA[<article><h1>Logos:</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9eefd6bcbae48c96f724f97ff784836cf07dc3d0.png"></article>]]></description>
-            <link>undefinedlogos/index.html</link>
+            <link>https://thegrid.ai/andreamikla/logos/index.html</link>
             <guid isPermaLink="false">3c261d93-e9fb-40b2-9472-8940bdd1e3f7</guid>
             <pubDate>Wed, 09 Mar 2016 22:21:25 GMT</pubDate>
         </item>
