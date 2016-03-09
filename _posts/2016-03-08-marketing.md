@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "I have a love of creating strong compelling logos for my clients. Logos that speak to my clients heart and their business. Along with logos and marketing pieces, my passion is social media and providing graphics and analytics to help grow their business.\_"
-datePublished: '2016-03-09T00:26:31.127Z'
-dateModified: '2016-03-09T00:25:19.068Z'
+description: "I have a love of creating strong compelling logos for my clients. Logos that speak to my clients heart and their business and or endvor. Along with logos and marketing pieces, my passion is social media and providing graphics and analytics to help grow their business.\_"
+datePublished: '2016-03-09T00:34:19.545Z'
+dateModified: '2016-03-09T00:26:36.897Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-08-marketing.md
