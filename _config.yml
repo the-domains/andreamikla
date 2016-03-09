@@ -1,29 +1,41 @@
-name: andreamikla
-favicon: null
-layout_spectrum: 0.55622
-typography_spectrum: 0.3892
 title: marketing • events • design
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.2867384
+  brandStrength: 0.6875
+  lightness: 0.5949821
+  brandColors:
+    - '#DFD9CF'
+    - '#141417'
+    - '#90201E'
+    - '#556C91'
+    - '#992988'
+  rhythmicContrast: 0.5985663
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: andreamikla
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#fffdfe'
-    - '#636466'
-    - '#9d9d9f'
-    - '#e1e0e1'
-    - '#7c7c7e'
-  brandStrength: 0.6875
-  lightness: 0.6875
-  saturation: 0.5
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.3924731
+layout_spectrum: 0.55622
