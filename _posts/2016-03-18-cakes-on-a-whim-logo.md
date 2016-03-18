@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-18T15:58:37.395Z'
+datePublished: '2016-03-18T15:59:30.124Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Cakes on a Whim - Logo
-dateModified: '2016-03-18T15:56:33.003Z'
+dateModified: '2016-03-18T15:59:15.308Z'
 sourcePath: _posts/2016-03-18-cakes-on-a-whim-logo.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
