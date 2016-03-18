@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[marketing • events • design]]></title>
         <description><![CDATA[marketing • events • design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andreamikla/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 15:57:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 15:58:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andreamikla/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Natural Elements - Logo ]]></title>
+            <description><![CDATA[<article><h1>Natural Elements - Logo </h1><p>Natural Elements - Logo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f74f7c7b6e5796cc9dce6faf8a5c00443f67197f.png"></article>]]></description>
+            <link>https://thegrid.ai/andreamikla/natural-elements-logo/index.html</link>
+            <guid isPermaLink="false">2caadc2f-9b72-43ac-bca3-14e710deb489</guid>
+            <pubDate>Fri, 18 Mar 2016 15:58:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Andrea Mikla]]></title>
             <description><![CDATA[<article><h1>Andrea Mikla</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e20a1768eb85e72554d14275cc11c38df7671aa.png"></article>]]></description>
-            <link>undefinedandrea-mikla/index.html</link>
+            <link>https://thegrid.ai/andreamikla/andrea-mikla/index.html</link>
             <guid isPermaLink="false">e21c023b-681c-4c1f-bab9-a73651cfab6e</guid>
             <pubDate>Fri, 18 Mar 2016 15:57:51 GMT</pubDate>
         </item>
