@@ -1,14 +1,15 @@
 ---
 description: Natural Elements - Logo
 author: []
-datePublished: '2016-03-18T15:58:37.240Z'
+datePublished: '2016-03-18T15:59:29.908Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: 'Natural Elements - Logo '
-dateModified: '2016-03-18T15:57:29.807Z'
+dateModified: '2016-03-18T15:59:14.899Z'
 sourcePath: _posts/2016-03-18-natural-elements-logo.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
