@@ -1,13 +1,13 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-09T22:21:25.255Z'
+datePublished: '2016-03-18T15:44:58.914Z'
 publisher:
   name: ''
   domain: ''
 title: Andrea Mikla
-dateModified: '2016-03-09T01:59:25.055Z'
-starred: false
+dateModified: '2016-03-09T22:21:55.103Z'
+starred: true
 sourcePath: _posts/2016-03-09-andrea-mikla.md
 published: true
 inFeed: true
