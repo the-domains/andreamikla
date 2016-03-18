@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-18T15:58:37.466Z'
+datePublished: '2016-03-18T15:59:29.996Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Leaping Leashes - Logo
-dateModified: '2016-03-18T15:57:01.144Z'
+dateModified: '2016-03-18T15:59:15.141Z'
 sourcePath: _posts/2016-03-18-leaping-leashes-logo.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
