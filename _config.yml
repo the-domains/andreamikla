@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.3046595
-  brandStrength: 0.1738351
-  lightness: 0.5197133
+  saturation: 0.1200717
+  brandStrength: 0.08422939
+  lightness: 0.8225806
   brandColors:
     - '#FFFFFF'
     - '#5E5E5E'
     - '#AFAFAF'
     - '#0E151F'
     - '#F1EB4B'
-  rhythmicContrast: 0.1505376
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: andreamikla
 favicon: null
+name: andreamikla
 opengraph:
   image: null
   type: null
