@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.1200717
-  brandStrength: 0.08422939
-  lightness: 0.8225806
+  saturation: 0.02508961
+  brandStrength: 0.5017921
+  lightness: 0.9605735
   brandColors:
     - '#FFFFFF'
     - '#5E5E5E'
     - '#AFAFAF'
     - '#0E151F'
     - '#F1EB4B'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.2903226
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: andreamikla
+favicon: null
 opengraph:
   image: null
   type: null
